@@ -1,0 +1,27 @@
+body{
+    color: rgb(108, 8, 201);
+    background-color: rgb(181, 241, 241);
+}
+table {
+    color: rgb(33, 9, 247);
+    background-color: rgb(41, 202, 202);
+}
+h4{
+    color: black;
+    height: ;
+}
+[href="#big1"]{
+    color: rgb(17, 29, 196);
+}
+li[height="100"]{
+    color: rgb(255, 0, 0);
+}
+.t1{
+    color: rgb(19, 206, 44);
+}
+#hid {
+    color: black;
+}
+#canvas {
+    background-color: blue;
+}
